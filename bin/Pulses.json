@@ -1,0 +1,16 @@
+[
+ {"name" : "Indrayani",
+  "price" : 590 , 
+  "weight" : 100 
+ },
+ 
+ {"name" : "Basmati",
+  "price" : 490 ,
+  "weight" : 30
+ },
+ 
+ {"name" : "Kani", 
+ "price" : 390 , 
+ "weight" : 60
+ }
+]

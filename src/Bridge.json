@@ -1,0 +1,19 @@
+[
+	{"firstName":"Neha",
+	"lastname":"Palekar",
+	"address":"Kothrud",
+	"city":"pune",
+	"state":"maha",
+	"zipcode":411013,
+	"phoneNumber":"45632178"
+	},
+	
+	{"firstName":"neha",
+	"lastname":"palekar",
+	"address":"Pimpri",
+	"city":"pune",
+	"state":"maha",
+	"zipcode":411042,
+	"phoneNumber":"789456123"
+	}
+]
